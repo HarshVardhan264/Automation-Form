@@ -1,0 +1,4 @@
+bin/
+obj/
+failure-*.png
+.vs/
